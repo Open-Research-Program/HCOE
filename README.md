@@ -1,5 +1,4 @@
-# HCOE
-### Hispanic Center of Excellence at the University of Illinois, Chicago
+# Hispanic Center of Excellence (HCOE)
 
 ## Goal
 The goal is for scholars to form a fun and friendly community that collectively gains confidence, shares best practices, shares ideas and resources, and helps eachother solve problems they face  with the various steps involved in the academic research process.
