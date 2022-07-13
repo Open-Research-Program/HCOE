@@ -19,8 +19,8 @@ Form a community and bond with similar-minded individuals with
 - Courage
 
 Desire to improve quality of research skills and understanding, including but not limited to
-- Improve analytical skills \newline 
-- Research Best Practices  \newline 
-- Research Fundamentals and Principles \newline 
-- Academic peer-reviewed writing (proposals, manuscripts, grants) \newline 
-- Academic Oral Presentations \newline 
+- Improve analytical skills
+- Research Best Practices
+- Research Fundamentals and Principles
+- Academic peer-reviewed writing 
+- Academic Oral Presentations 
