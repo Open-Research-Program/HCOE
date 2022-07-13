@@ -1,4 +1,4 @@
-#Topics of Interest by the Community
+# Topics of Interest Raised by the Community
 
 The group was prompted "What three things [would] you like to get out of this experience"
 The following table lists the topics of interest they would like to better understand.
