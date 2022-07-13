@@ -12,8 +12,9 @@ Discussions posts can be anything! They can be research related or non research 
 
 ## Scholar Values:
 Form a community and bond with similar-minded individuals \newline 
-Improve analytical skills, including statistics  
-Research Best Practices (organization, using search engines, using articles effectively)  
-Research Fundamentals and Principles
-Academic peer-reviewed writing (proposals, manuscripts, grants) 
-Academic Oral Presentations
+Desire to improve quality of research skills and understanding, including but not limited to
+- Improve analytical skills \newline 
+- Research Best Practices  \newline 
+- Research Fundamentals and Principles \newline 
+- Academic peer-reviewed writing (proposals, manuscripts, grants) \newline 
+- Academic Oral Presentations \newline 
