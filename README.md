@@ -11,10 +11,12 @@ You can contribute by answering and asking a question or just sharing your work 
 Discussions posts can be anything! They can be research related or non research related.  Have fun with them and support eachothers with likes and comments!
 
 ## Scholar Values:
-- Form a community and bond with similar-minded individuals. 
+Form a community and bond with similar-minded individuals with
 - Respect 
 - Integrity 
-- Kindness
+- Kindness 
+- Support for each other
+- Courage
 
 Desire to improve quality of research skills and understanding, including but not limited to
 - Improve analytical skills \newline 
