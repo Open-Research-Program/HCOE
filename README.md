@@ -6,7 +6,7 @@ The goal is for scholars to form a fun and friendly community that collectively 
 Moonshot goal: Scholars continue to collaborate and share resources after their Summer Research Program concludes
 
 ## Getting Started
-Find your way to the [Discussion board](https://github.com/Open-Research-Program/HCOE/discussion) and start contributing.
+Find your way to the [Discussion board](https://github.com/Open-Research-Program/HCOE/discussions) and start contributing.
 You can contribute by answering and asking a question or just sharing your work and ideas. 
 Discussions posts can be anything! They can be research related or non research related.  Have fun with them and support eachothers with likes and comments!
 
