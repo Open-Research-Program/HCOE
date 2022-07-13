@@ -11,7 +11,7 @@ You can contribute by answering and asking a question or just sharing your work 
 Discussions posts can be anything! They can be research related or non research related.  Have fun with them and support eachothers with likes and comments!
 
 ## Scholar Values:
-Form a community and bond with similar-minded individuals
+Form a community and bond with similar-minded individuals \newline 
 Improve analytical skills, including statistics  
 Research Best Practices (organization, using search engines, using articles effectively)  
 Research Fundamentals and Principles
