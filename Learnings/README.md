@@ -1,5 +1,5 @@
 # Topics Selected to Investigate by the Community
-On July 13, 2022, the community was asked to vote on the sixteen topics concepts of most interest. The following table numerically lists topics of most interest to least (1 = highest interest). Note: Topic concepts were bundled to eliminate potential redundancies and form a total list of 10. 
+On July 13, 2022, the community was asked to vote on the previously generated [sixteen topics concepts of most interest](#Topics-of-Interest-Raised-by-the-Community). The following table numerically lists topics of most interest to least (1 = highest interest). Note: Topic concepts were bundled to eliminate potential redundancies and form a total list of 10. 
 
 | No.   | Topic                  | 
 | ----- | ---------------------- |
@@ -13,7 +13,7 @@ On July 13, 2022, the community was asked to vote on the sixteen topics concepts
 |8.| Study Design|
 |9.| Research Process in General & Various types of Research|
 |10.|Professionalism in Research & Diversity and Inclusion in Research|
-
+* indicates multiple competing interest
 
 
 
