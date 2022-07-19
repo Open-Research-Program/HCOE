@@ -8,7 +8,7 @@ The following is simple Overview of Community Milestones for the summer of 2022.
 3. Each Champion generates a summary explanation with resources and references to share and discuss with the group.
 
 ## Additional Target - Participate in Open Science
-4. Create a Medium post that is a 3-5 minute read on you framework and post to this github repo and encourage others to add to the community effort.
+4. Create a Medium post that is a 3-5 minute read on your practical framework and post to this github repo and encourage others to add to the community effort.
 
 ****Rationale****:  Posting it on Medium will make it searchable on google for others to find and use. 
 An open science principle to make your learnings open to all to find, use, build upon, and potential repudiate. 
