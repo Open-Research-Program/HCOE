@@ -13,7 +13,7 @@ On July 13, 2022, the community was asked to vote on the previously generated [s
 |8.| Study Design|
 |9.| Research Process in General & Various types of Research|
 |10.|Professionalism in Research & Diversity and Inclusion in Research|
-* indicates multiple competing interest
+"*" indicates multiple competing interest
 
 
 
