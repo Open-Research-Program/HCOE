@@ -1,24 +1,44 @@
-# Topics of Interest Raised by the Community
+# Topics Selected to Investigate by the Community
+On July 13, 2022, the community was asked to vote on the sixteen topics concepts of most interest. The following table numerically lists topics of most interest to least (1 = highest interest). Note: Topic concepts were bundled to eliminate potential redundancies and form a total list of 10. 
 
-The group was prompted "What three things [would] you like to get out of this experience"
-The following table lists the topics of interest they would like to better understand.
+| No.   | Topic                  | 
+| ----- | ---------------------- |
+| 1.|Getting Published|
+| 2.|Scientific Presentation|    
+| 3.|Shadowing Experience & Improved understanding of applied clinical research|
+| 4.*|Scientific Writing| 
+| 4.*|Research best practices & avoiding Common Pitfalls to improve skills and understanding of niche. This includes Evaluating and Reviewing research for biases and indentifying meanful insight.|
+| 4.*| Working with a Mentor|
+|7.| Data Analysis|
+|8.| Study Design|
+|9.| Research Process in General & Various types of Research|
+|10.|Professionalism in Research & Diversity and Inclusion in Research|
+
+
+
+
+
+
+
+# Topics of Interest Raised by the Community 
+In June, 2022, the group was prompted "What three things [would] you like to get out of this experience" (see [Welcome Discussion Post](https://github.com/Open-Research-Program/HCOE/discussions/1))
+On July 12, concepts were captured and pulled from the discussion post.  Sixteen total topic concepts emerged and are tabulated below in no particular order.
 
 | No.   | Topic                  | 
 | ----- | ---------------------- |
 | 1.    |Data Analysis |
 | 2.    |Getting Published|
-| 3. | Scientific Writing| 
+| 3. | Scientific Presentation| 
 | 4. | Working with a Mentor|
 |5. | Peer & Other types of Research | 
 |6. | Scientific Writing|
-|7. | Publication |
-|8. | Shadowing Experience|
-|9.| Study Design|
-|10.| Research Process |
-|11.|Research best practices & avoiding Common Pitfalls|
-|12.|Professionalism in Research|
-|13.| Diversity and Inclusion in Research|
-|14.| Improved understanding of applied clinical research|
-|15.|Improved skills and understanding of niche|
-|16.|Citation Management|
-|17.|Evaluating Research & Reviewing Literature|
+|7. | Shadowing Experience|
+|8.| Study Design|
+|9.| Research Process |
+|10.|Research best practices & avoiding Common Pitfalls|
+|11.|Professionalism in Research|
+|12.| Diversity and Inclusion in Research|
+|13.| Improved understanding of applied clinical research|
+|14.|Improved skills and understanding of niche|
+|15.|Citation Management|
+|16.|Evaluating Research & Reviewing Literature|
