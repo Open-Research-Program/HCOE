@@ -11,8 +11,7 @@ The following is simple Overview of Community Milestones for the summer of 2022.
 4. Create a Medium post that is a 3-5 minute read on your practical framework and post to this github repo and encourage others to add to the community effort.
 
 ****Rationale****:  Posting it on Medium will make it searchable on google for others to find and use. 
-An open science principle to make your learnings open to all to find, use, build upon, and potential repudiate. 
+An open science principle to make your learnings open to all to find, use, build upon (including repudiation).  
 
 ## Whats next
 
- make progress in  effective, efficent, and collaborative we will  the load of discovering and  to assigning champion
