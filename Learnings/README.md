@@ -5,16 +5,16 @@ On July 13, 2022, the community was asked to vote on the previously generated [s
 | ----- | ---------------------- |
 | 1.|Getting Published|
 | 2.|Scientific Presentation|    
-| 3.|Shadowing Experience & Improved understanding of applied clinical research|
-| 4.*|Scientific Writing| 
-| 4.*|Research best practices & avoiding Common Pitfalls to improve skills and understanding of niche. This includes Evaluating and Reviewing research for biases and indentifying meanful insight.|
-| 4.*| Working with a Mentor|
+| 3.|Shadowing Experience|
+| 4.* |Scientific Writing| 
+| 5.* |Working with a Mentor|
+| 6.* |Research best practices & avoiding Common Pitfalls to improve skills and understanding of niche. This includes Evaluating and Reviewing research for biases and indentifying meanful insight.|
 |7.| Data Analysis|
 |8.| Study Design|
-|9.| Research Process in General & Various types of Research|
+|9.| General research & Clinical Research Processes and Pipelines|
 |10.|Professionalism in Research & Diversity and Inclusion in Research|
 
-"*" indicates multiple competing interest
+"*" indicates these topics were of equal interest, so they were arbitrarily assigned a number between eachother
 
 
 
