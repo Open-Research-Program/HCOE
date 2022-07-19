@@ -1,5 +1,5 @@
 # 2022 Summer Targets
-As a community we have selected [10 topic concepts](https://github.com/Open-Research-Program/HCOE/blob/main/Learnings/README.md] to investigate and learn about together.
+As a community we have selected [10 topic concepts](https://github.com/Open-Research-Program/HCOE/blob/main/Learnings/README.md) to investigate and learn about together.
 
 ## Community Milestones for the Summer of 2022
 The following is simple Overview of Community Milestones for the summer of 2022.
