@@ -32,7 +32,7 @@ Call format moving forward
 
 ### 2.  Be a Champion for two topic concepts
 ****The 5 Step Guide to your 4-week journey on being a Topic Concept Champion****
-1. View the [10 topic concepts](https://github.com/Open-Research-Program/HCOE/blob/main/Learnings/README.md) and select two topics you are interested in Championing. 
+1. View the [10 topic concepts](https://github.com/Open-Research-Program/HCOE/blob/main/Learnings) and select two topics you are interested in Championing. 
 2. Go to the HCOE/[Topic Concept Folder]/README.md and place your name as a Content Champion.  [See more information on README.md](#Additional-Information)
 3. Brainstorm subtopics and place them into the respective ReadME.md "Table for Subtopic Ideas" in the "Subtopic" Column, and then select one Subtopc by adding your name in the "Name" Column.
 4. Add a brief paragraph summary on the subtopic you are covering and the precise set of questions you plan on answer. Do your best to be precise and clear on what it will be about and what it will not be about. 
