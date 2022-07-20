@@ -56,7 +56,7 @@ Ask Questions, announce updates, and poll the community via the [discussion boar
 Create a Markdown file with the title of your topic that explains your findings. The explaination and format of your findings is up for you to decide.
 
 ### 5. Create a post and upload to Medium
-Posting content on [Medium][https://medium.com/ ] will make it searchable on google for others to find and use. 
+Posting content on [Medium](https://medium.com/) will make it searchable on google for others to find and use. 
 An open science tenant is to make your learnings open to all to find, use, and build upon (including repudiation).
 
 
@@ -73,6 +73,8 @@ An open science tenant is to make your learnings open to all to find, use, and b
 
 
 # Additional Information
+Want additional information? Something isn't clear? Ask on the [discussion board](https://github.com/Open-Research-Program/HCOE/discussions)!
+
 ## Contributing content to a README.md
 "README.md" files are markdown filesthat provide a default description when you select on a folder in github.  This description you are reading right now was is on a markdown file! 
 Markdown files require a unique approach to performing tasks (e.g. "bolding" or "Creating a Header" or "Creating a table.")   on your written typed content within the file.  The rest is no different than writing on a google document.  See this link learn more about the unique syntax required when typing on a markdown file. https://www.markdownguide.org/basic-syntax/
