@@ -2,7 +2,7 @@
 As a community we have selected [10 topic concepts](https://github.com/Open-Research-Program/HCOE/blob/main/Learnings/README.md) to investigate and learn about together.
 
 ## Community Milestones for the Summer of 2022
-The following is simple Overview of Community Milestones for the summer of 2022.
+
 1. Find 10 Topics of Interest [x] and Assign Champions to each topic by session [ ]
 2. Each Champion selects a subtopic(s) and investigates for practical frameworks they can apply to their research experience
 3. Each Champion generates a summary explanation with resources and references to share and discuss with the group.
