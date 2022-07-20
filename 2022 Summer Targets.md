@@ -31,17 +31,6 @@ Call format moving forward
 * Topic Concept Presentation (15 minutes) 
 
 ### 2.  Be a Champion for two topic concepts
-
-What a being a Topic Concept Champion is not
-* it is not being a subject matter expert
-* it is not generating new insights 
-
-What being a Topic Concept Champion shoud be
-* it should be identifying a set of specific questions that you and others would be intersted in answering
-* it should be identifying practical recommendations to answering or approaching the set of specific questions  
-* it should be an enthusiastic advocate of the topic concept who tries to their best to generate content that will help themselves and others
-
-
 ****The 5 Step Guide to your 4-week journey on being a Topic Concept Champion****
 1. View the [10 topic concepts](https://github.com/Open-Research-Program/HCOE/blob/main/Learnings/README.md) and select two topics you are interested in Championing. 
 2. Go to the HCOE/[Topic Concept Folder]/README.md and place your name as a Content Champion.  [See more information on README.md](#Additional-Information)
@@ -49,9 +38,16 @@ What being a Topic Concept Champion shoud be
 4. Add a brief paragraph summary on the subtopic you are covering and the precise set of questions you plan on answer. Do your best to be precise and clear on what it will be about and what it will not be about. 
 5. Collect useful resources and recommendations f
 
-(recommendation) Create a reasonable habit for yourself to read about the topic , collect useful sources, and write a key-take away
+#### Recommendation
+Create a reasonable habit for yourself to read about the topic , collect useful sources, and write a key-take away
 Pocket 30-60 minutes a day before engaging in your reasearch to discover what the internet has to say about the topic concept.  Then collate  guides and publications you found most useful. Then in your own words summarize the key take-aways in an easy to understand Guide for others to follow and refer to your own experience or other content when making statements.
-
+#### What a being a Topic Concept Champion is not
+* it is not being a subject matter expert
+* it is not generating new insights 
+#### What being a Topic Concept Champion shoud be
+* it should be identifying a set of specific questions that you and others would be intersted in answering
+* it should be identifying practical recommendations to answering or approaching the set of specific questions  
+* it should be an enthusiastic advocate of the topic concept who tries to their best to generate content that will help themselves and others
 
 ### 3. Leverage the Community
 Ask Questions, announce updates, and poll the community via the [discussion board](https://github.com/Open-Research-Program/HCOE/discussions)
