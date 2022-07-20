@@ -14,7 +14,7 @@ On July 13, 2022, the community was asked to vote on the previously generated [s
 |9.| General research & Clinical Research Processes and Pipelines|
 |10.|Professionalism in Research & Diversity and Inclusion in Research|
 
-"*" indicates these topics were of equal interest at the 4th position so they arbitarily ordered respectively
+"*" indicates these topics were of equal interest at the 4th position, so they were arbitarily ordered respectively
 
 
 
