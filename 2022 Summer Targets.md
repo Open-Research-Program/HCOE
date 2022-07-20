@@ -53,7 +53,7 @@ Pocket 30-60 minutes a day before engaging in your reasearch to discover what th
 Ask Questions, announce updates, and poll the community via the [discussion board](https://github.com/Open-Research-Program/HCOE/discussions)
 
 ### 4. Upload your findings to Github
-Create a Markdown file with the title of your topic that explains your findings. The explaination and format of your findings is up for you to decide.
+Create a Markdown file with the title of your topic that explains your findings. The explaination and format of your findings is up for you to decide.lkjlkj
 
 ### 5. Create a post and upload to Medium
 Posting content on [Medium](https://medium.com/) will make it searchable on google for others to find and use. 
