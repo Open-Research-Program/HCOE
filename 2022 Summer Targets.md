@@ -9,7 +9,7 @@ As a community we have selected [10 topic concepts](https://github.com/Open-Rese
 [x] Learning these topics is a nice-to-have and not urgent, so I am not motivated to spend too much free time to deep dive into them all.
 [x] Analysis Paralysis; I don't know where to start
 
-## Community Milestones for the Summer of 2022
+****Community Milestones for the Summer of 2022****
 1. Find 10 Topics Concepts of Interest [x] and Assign Champions to each topic by session [ ]
 2. Each Champion selects a subtopic(s) and investigates for practical frameworks they can apply to their research experience
 3. Each Champion generates a summary explanation with resources and references to share and discuss with the group.
