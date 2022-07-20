@@ -13,11 +13,10 @@ As a community we have selected [10 topic concepts](https://github.com/Open-Rese
 1. Find 10 Topics Concepts of Interest [x] and Assign Champions to each topic by session [ ]
 2. Each Champion selects a subtopic(s) and investigates for practical frameworks they can apply to their research experience
 3. Each Champion generates a summary explanation with resources and references to share and discuss with the group.
-
-****Additional Target - Participate in Open Science****
 4. Create a Medium post that is a 3-5 minute read on your practical framework and post to this github repo and encourage others to add to the community effort.
-__Rationale:  Posting it on Medium will make it searchable on google for others to find and use. 
-An open science principle to make your learnings open to all to find, use, build upon (including repudiation).  
+
+__Milestone No. 4 Note: Posting it on Medium will make it searchable on google for others to find and use. 
+An open science principle to make your learnings open to all to find, use, build upon (including repudiation).  __
 
 # Whats next
 1. Standardize the 1-hour Call format
@@ -38,7 +37,7 @@ Call format moving forward
 
 Three Step Guide to being a Topic Concept Champion
 1. View the [10 topic concepts](https://github.com/Open-Research-Program/HCOE/blob/main/Learnings/README.md) and select two topics you are interested in Championing. 
-2. Go to the HCOE/[Topic Concept Folder]/README.md and place your name as a Content Champion.  (See more information on README.md)[##-Additional-Information]
+2. Go to the HCOE/[Topic Concept Folder]/README.md and place your name as a Content Champion.  (See more information on README.md)[#Additional-Information]
 3. Brainstorm subtopics and place them into the respective ReadME.md "Table for Subtopic Ideas."    
 4. Contribute to your select topic Concepts by adding a brief summary on the subtopic you are covering 
 
