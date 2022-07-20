@@ -15,15 +15,12 @@ As a community we have selected [10 topic concepts](https://github.com/Open-Rese
 3. Each Champion generates a summary explanation with resources and references to share and discuss with the group.
 4. Create a Medium post that is a 3-5 minute read on your practical framework and post to this github repo and encourage others to add to the community effort.
 
-__Milestone No. 4 Note: Posting it on Medium will make it searchable on google for others to find and use. 
-An open science principle to make your learnings open to all to find, use, build upon (including repudiation).  __
-
 # Whats next
 1. Standardize the 1-hour Call format
 2. Be a Champion of two Topic Concepts and create a practical framework for subtopic
-3. Ask Questions, announce updates, and poll the community via the [discussion board](https://github.com/Open-Research-Program/HCOE/discussions)
-4. Upload your framework to the Githup Repository 
-5. Publish a digestable explaination of your framework for others to find, test, and use.
+3. Leverage the Community via the [discussion board](https://github.com/Open-Research-Program/HCOE/discussions)
+4. Upload your findings to Github
+5. Create a digestable explaination of your findings and publish it on Medium.
 
 ## 1. Standardize the 1-hour Call format
 Call format moving forward
@@ -35,14 +32,37 @@ Call format moving forward
 
 ## 2.  Be a Champion for two topic concepts
 
-Three Step Guide to being a Topic Concept Champion
+What a being a Topic Concept Champion is not
+* it is not being a subject matter expert
+* it is not generating new insights 
+
+What being a Topic Concept Champion shoud be
+* it should be identifying a set of specific questions that you and others would be intersted in answering
+* it should be identifying practical recommendations to answering or approaching the set of specific questions  
+* it should be an enthusiastic advocate of the topic concept who tries to their best to generate content that will help themselves and others
+
+
+The 5 Step Guide to your 4-week journey on being a Topic Concept Champion
 1. View the [10 topic concepts](https://github.com/Open-Research-Program/HCOE/blob/main/Learnings/README.md) and select two topics you are interested in Championing. 
-2. Go to the HCOE/[Topic Concept Folder]/README.md and place your name as a Content Champion.  (See more information on README.md)[#Additional-Information]
-3. Brainstorm subtopics and place them into the respective ReadME.md "Table for Subtopic Ideas."    
-4. Contribute to your select topic Concepts by adding a brief summary on the subtopic you are covering 
+2. Go to the HCOE/[Topic Concept Folder]/README.md and place your name as a Content Champion.  [See more information on README.md](#Additional-Information)
+3. Brainstorm subtopics and place them into the respective ReadME.md "Table for Subtopic Ideas" in the "Subtopic" Column, and then select one Subtopc by adding your name in the "Name" Column.
+4. Add a brief paragraph summary on the subtopic you are covering and the precise set of questions you plan on answer. Do your best to be precise and clear on what it will be about and what it will not be about. 
+5. Collect useful resources and recommendations f
+
+(recommendation) Create a reasonable habit for yourself to read about the topic , collect useful sources, and write a key-take away
+Pocket 30-60 minutes a day before engaging in your reasearch to discover what the internet has to say about the topic concept.  Then collate  guides and publications you found most useful. Then in your own words summarize the key take-aways in an easy to understand Guide for others to follow and refer to your own experience or other content when making statements.
 
 
+## 3. Leverage the Community
+Ask Questions, announce updates, and poll the community via the [discussion board](https://github.com/Open-Research-Program/HCOE/discussions)
 
+## 4. Upload your findings to Github
+Create a Markdown file with the title of your topic that explains your findings. The explaination and format of your findings is up for you to decide.
+
+## 5. Create a post and upload to Medium
+Medium: https://medium.com/ 
+Posting content on Medium will make it searchable on google for others to find and use. 
+An open science tenant is to make your learnings open to all to find, use, and build upon (including repudiation).
 
 
 # Schedule 
@@ -59,4 +79,5 @@ Three Step Guide to being a Topic Concept Champion
 
 # Additional Information
 ## Contributing content to a README.md
-README markdown files or "README.md" files are files that provide a default description when you select on a folder in github.  This description you are reading right now was is on a markdown file! To learn basics on markdown 
+"README.md" files are markdown filesthat provide a default description when you select on a folder in github.  This description you are reading right now was is on a markdown file! 
+Markdown files require a unique approach to performing tasks (e.g. "bolding" or "Creating a Header" or "Creating a table.")   on your written typed content within the file.  The rest is no different than writing on a google document.  See this link learn more about the unique syntax required when typing on a markdown file. https://www.markdownguide.org/basic-syntax/
