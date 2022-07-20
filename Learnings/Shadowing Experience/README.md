@@ -10,4 +10,4 @@
 | How to get the most out of your shadowing experience | |
 | How to expand your opportunities to get a shadowing experience | |
 
-"*" only place your Name next to the subtopics you have selected generate content on.
+"*" only place your Name next to the subtopics you have agreed to generate content on.
