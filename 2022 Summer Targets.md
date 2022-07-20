@@ -56,8 +56,7 @@ Ask Questions, announce updates, and poll the community via the [discussion boar
 Create a Markdown file with the title of your topic that explains your findings. The explaination and format of your findings is up for you to decide.
 
 ### 5. Create a post and upload to Medium
-Medium: https://medium.com/ 
-Posting content on Medium will make it searchable on google for others to find and use. 
+Posting content on (Medium)[https://medium.com/ ] will make it searchable on google for others to find and use. 
 An open science tenant is to make your learnings open to all to find, use, and build upon (including repudiation).
 
 
