@@ -18,8 +18,8 @@ As a community we have selected [10 topic concepts](https://github.com/Open-Rese
 ****Rationale:  Posting it on Medium will make it searchable on google for others to find and use. 
 An open science principle to make your learnings open to all to find, use, build upon (including repudiation).  
 
-## Whats next
-### 1. Standardize the 1- hour Call format
+# Whats next
+## 1. Standardize the 1- hour Call format
 Call format moving forward
 * Warm Hellos (5 minutes)
 * Peer Research Presentation (20 minutes) 
@@ -27,7 +27,7 @@ Call format moving forward
 * Community Sharing (10 minutes)
 * Topic Concept Presentation (15 minutes) 
 
-### 2.  Be a Two Topic Concept Champion 
+## 2.  Be a Two Topic Concept Champion 
 View the [10 topic concepts](https://github.com/Open-Research-Program/HCOE/blob/main/Learnings/README.md) and select two topics you are interested in Championing. 
 
 ### The Scope of Work for being Topic Concept Champion
