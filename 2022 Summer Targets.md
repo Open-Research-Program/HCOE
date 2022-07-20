@@ -1,4 +1,5 @@
 # 2022 Summer Targets
+
 As a community we have selected [10 topic concepts](https://github.com/Open-Research-Program/HCOE/blob/main/Learnings/README.md) to investigate and learn about together.  Working together we can overcome common pain points in making the most of your summer to do research.
 ****Common Pain Points****
 [x] Bandwidth is limited, its a lot investigate myself
@@ -13,13 +14,19 @@ As a community we have selected [10 topic concepts](https://github.com/Open-Rese
 2. Each Champion selects a subtopic(s) and investigates for practical frameworks they can apply to their research experience
 3. Each Champion generates a summary explanation with resources and references to share and discuss with the group.
 
-### Additional Target - Participate in Open Science
+****Additional Target - Participate in Open Science****
 4. Create a Medium post that is a 3-5 minute read on your practical framework and post to this github repo and encourage others to add to the community effort.
-****Rationale:  Posting it on Medium will make it searchable on google for others to find and use. 
+__Rationale:  Posting it on Medium will make it searchable on google for others to find and use. 
 An open science principle to make your learnings open to all to find, use, build upon (including repudiation).  
 
 # Whats next
-## 1. Standardize the 1- hour Call format
+1. Standardize the 1-hour Call format
+2. Be a Champion of two Topic Concepts and create a practical framework for subtopic
+3. Ask Questions, announce updates, and poll the community via the [discussion board](https://github.com/Open-Research-Program/HCOE/discussions)
+4. Upload your framework to the Githup Repository 
+5. Publish a digestable explaination of your framework for others to find, test, and use.
+
+## 1. Standardize the 1-hour Call format
 Call format moving forward
 * Warm Hellos (5 minutes)
 * Peer Research Presentation (20 minutes) 
@@ -27,14 +34,30 @@ Call format moving forward
 * Community Sharing (10 minutes)
 * Topic Concept Presentation (15 minutes) 
 
-## 2.  Be a Two Topic Concept Champion 
-View the [10 topic concepts](https://github.com/Open-Research-Program/HCOE/blob/main/Learnings/README.md) and select two topics you are interested in Championing. 
+## 2.  Be a Champion for two topic concepts
 
-### The Scope of Work for being Topic Concept Champion
-Context: The community, including yourself, has raised topic concepts to understand better that are of most value.  
+Three Step Guide to being a Topic Concept Champion
+1. View the [10 topic concepts](https://github.com/Open-Research-Program/HCOE/blob/main/Learnings/README.md) and select two topics you are interested in Championing. 
+2. Go to the HCOE/[Topic Concept Folder]/README.md and place your name as a Content Champion.  (See more information on README.md)[##-Additional-Information]
+3. Brainstorm subtopics and place them into the respective ReadME.md "Table for Subtopic Ideas."    
+4. Contribute to your select topic Concepts by adding a brief summary on the subtopic you are covering 
 
 
 
-### Dates and Topics Concepts
-| 2022 Summer Community Call |   lkj| 
-| Wednesday, 7/20 | 
+
+
+# Schedule 
+
+| 2022 Summer Community Call |  Key Take-away | 
+| ----- | ---------------------- |
+| Wednesday, 7/20/22 | General Insight on the Research Process & Tips |
+| Wednesday, 7/27/22 | Getting Publications and Working with your Mentor | 
+| Wednesday, 8/03/22 | Scientific Presentation & Writing |
+| Wednesday, 8/10/22 | Data Analysis & Study Design |
+| Wednesday, 8/17/22 | Topic Concept Champion Presentations |
+
+
+
+# Additional Information
+## Contributing content to a README.md
+README markdown files or "README.md" files are files that provide a default description when you select on a folder in github.  This description you are reading right now was is on a markdown file! To learn basics on markdown 
