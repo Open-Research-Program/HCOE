@@ -1,11 +1,11 @@
 # Working with a Mentor
 
 ## Summer 2022 Content Topic Champions
-* [YOUR NAME HERE]
+* [Sonia Pulido]
 * If necessary, another name here
 
 ## Table of Subtopic Ideas
-| Subtopic | Name*    | 
+| Showing initiative | Sonia Pulido | 
 | ----- | --------|
 |  | |
 
