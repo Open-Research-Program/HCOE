@@ -5,7 +5,7 @@
 * If necessary, another name here
 
 ## Table of Subtopic Ideas
-| Subtopic | Name*    | 
+| Subtopic | Name*    
 *Types of Study Designs | Brenda Guillen|
 |  | |
 
