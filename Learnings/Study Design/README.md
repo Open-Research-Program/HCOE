@@ -1,12 +1,12 @@
 # Study Design
 
 ## Summer 2022 Content Topic Champions
-* [YOUR NAME HERE]
+* Brenda Guillen
 * If necessary, another name here
 
 ## Table of Subtopic Ideas
 | Subtopic | Name*    | 
-| ----- | --------|
+| Types of Study Designs | Brenda Guillen|
 |  | |
 
 
