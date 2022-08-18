@@ -1,7 +1,7 @@
 # Clinical Research Process
 
 ## Summer 2022 Content Topic Champions
-* Brenda Guillen
+* Your Name
 * If necessary, another name here
 
 ## Table of Subtopic Ideas
