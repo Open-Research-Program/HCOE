@@ -30,6 +30,17 @@
         "talk",
         "doc"
       ]
+    },
+    {
+      "login": "bguill3",
+      "name": "Brenda Guillen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108437104?v=4",
+      "profile": "https://github.com/bguill3",
+      "contributions": [
+        "doc",
+        "ideas",
+        "talk"
+      ]
     }
   ],
   "contributorsPerLine": 7,
