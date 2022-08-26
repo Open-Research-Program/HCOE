@@ -1,0 +1,28 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "ADParedes",
+      "name": "Andre Daniel Paredes",
+      "avatar_url": "https://avatars.githubusercontent.com/u/34843515?v=4",
+      "profile": "https://github.com/ADParedes",
+      "contributions": [
+        "mentoring",
+        "doc",
+        "ideas",
+        "maintenance",
+        "talk"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "HCOE",
+  "projectOwner": "Open-Research-Program",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
