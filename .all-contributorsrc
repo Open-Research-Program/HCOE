@@ -17,6 +17,19 @@
         "maintenance",
         "talk"
       ]
+    },
+    {
+      "login": "Jdlopez0108",
+      "name": "Jdlopez0108",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108505823?v=4",
+      "profile": "https://github.com/Jdlopez0108",
+      "contributions": [
+        "content",
+        "ideas",
+        "question",
+        "talk",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
