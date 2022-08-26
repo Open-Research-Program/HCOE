@@ -24,3 +24,6 @@ Desire to improve quality of research skills and understanding, including but no
 - Research Fundamentals and Principles
 - Academic peer-reviewed writing 
 - Academic Oral Presentations 
+
+## Contributors ✨
+Thanks go to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
