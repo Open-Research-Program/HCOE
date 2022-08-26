@@ -1,4 +1,7 @@
 # Hispanic Center of Excellence (HCOE)
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Goal
 The goal is for scholars to form a fun and friendly community that collectively gains confidence, shares best practices, shares ideas and resources, and helps eachother solve problems they face  with the various steps involved in the academic research process.
@@ -27,3 +30,17 @@ Desire to improve quality of research skills and understanding, including but no
 
 ## Contributors ✨
 Thanks go to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/ADParedes"><img src="https://avatars.githubusercontent.com/u/34843515?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Andre Daniel Paredes</b></sub></a><br /><a href="#mentoring-ADParedes" title="Mentoring">🧑‍🏫</a> <a href="https://github.com/Open-Research-Program/HCOE/commits?author=ADParedes" title="Documentation">📖</a> <a href="#ideas-ADParedes" title="Ideas, Planning, & Feedback">🤔</a> <a href="#maintenance-ADParedes" title="Maintenance">🚧</a> <a href="#talk-ADParedes" title="Talks">📢</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
